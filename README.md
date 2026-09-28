@@ -83,6 +83,12 @@ The project uses an email dataset containing messages labelled as spam or not sp
 
 The project demonstrates how Natural Language Processing and Machine Learning can be combined to perform automatic email spam classification.
 
+## 📸 Project Output
+
+The model can take a new email message and predict whether it is Spam or Not Spam.
+
+![Spam Detection Output](spam_detection_outpu.png)
+
 ## 👩‍💻 Author
 
 **Ashwathi K**
